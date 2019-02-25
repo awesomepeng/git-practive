@@ -3,4 +3,8 @@
 
 这是刚刚做的改动xwewd
 d
+<<<<<<< HEAD
 dewdwdwd
+=======
+wewfewfew
+>>>>>>> 1713526... aa.txt添加了一次新的提交
